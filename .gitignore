@@ -1,0 +1,13 @@
+__pycache__
+app.egg-info
+
+.DS_Store
+venv
+
+.vscode
+.mypy_cache
+docker-stack.yml
+*.txt
+.env
+*.code-workspace
+.s3cfg
